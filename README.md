@@ -19,7 +19,7 @@
 
 <h4>Machine Learning</h4>
 <p align="left">
-<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<img src="![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" height="25"/>
 </p>
 
 <h4>Fun Little Projects</h4>
