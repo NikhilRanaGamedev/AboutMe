@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Rana</h1>
-<h3 align="center">A passionate developer from INDIA <img src="https://image.flaticon.com/icons/svg/3014/3014003.svg" width="14"/> </h3>
+<h3 align="center">A high school dropout and a game programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NightPredetor" alt="NightPredetor" /></p>
 
 
