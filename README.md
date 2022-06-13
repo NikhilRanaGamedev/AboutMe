@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NightPredetor" alt="NightPredetor" /></p>
 
 
-- 👩‍💻 I'm currently working at Black March Studios, working on an upcoming JRPG Crimson Tactics: The Rise of The White Banner.
+- 👩‍💻 I'm currently working at Black March Studios, working on an upcoming JRPG <a href="https://store.steampowered.com/app/1480810/Crimson_Tactics_The_Rise_of_The_White_Banner/">Crimson Tactics: The Rise of The White Banner</a>.
 - 🌱 In my free time nowadays I'm learning **Machine Learning** and making other various projects.
 
 <h4>Game Development</h4>
