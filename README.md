@@ -40,27 +40,4 @@
  
  </p>
 
-
-<!--
-
-For ICON With Text
-    https://img.shields.io/badge/HereText-FF9800.svg?&style=for-the-badge&logo=HereIconName&logoColor=white
-    
-For Github Stats
-    https://github-readme-stats.vercel.app/api?username=HereUsername&show_icons=true
-
-For Profile View
-    https://komarev.com/ghpvc/?username=HereUsername
-
-For Auto Generate
-    https://rahuldkjain.github.io/gh-profile-readme-generator/
-
-For County Flag ICOn
-    https://www.flaticon.com/
-
-For ICON Idea
-    https://simpleicons.org/
-
--->
-
 <!-- ![Visitor Count](https://profile-counter.glitch.me/devded/count.svg) -->
