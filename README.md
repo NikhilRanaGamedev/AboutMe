@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NightPredetor" alt="NightPredetor" /></p>
 
 
-- 🌱 I’m currently learning **Fullstack Development**
+- 🌱 I’m currently learning **Game Development** and **Machine Learning**
 
 <h4>Stack I work with</h4>
 <p align="left">
