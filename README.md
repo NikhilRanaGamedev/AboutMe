@@ -37,7 +37,7 @@
 </p>
  
  <p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api?username=NightPredetor&show_icons=true&hide=contribs" alt="NightPredetor" /> 
+ <img src="https://github-readme-stats.vercel.app/api?username=NikhilRanaGamedev&show_icons=true&hide=contribs" alt="NikhilRanaGamedev" /> 
  </p>
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/devded/count.svg) -->
