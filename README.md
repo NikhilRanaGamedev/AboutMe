@@ -1,15 +1,16 @@
 <h1 align="center">Hey 👋, I'm Nikhil Rana</h1>
-<h3 align="center">A high school dropout and a game programmer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NightPredetor" alt="NightPredetor" /></p>
+<h3 align="center">An aspiring Game Developer with 3+ years of experience</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NikhilRanaGamedev" alt="NikhilRanaGamedev" /></p>
 
-
-- 👩‍💻 I'm currently working at Black March Studios, working on an upcoming JRPG <a href="https://store.steampowered.com/app/1480810/Crimson_Tactics_The_Rise_of_The_White_Banner/">Crimson Tactics: The Rise of The White Banner</a>.
-- 🌱 In my free time nowadays I'm learning **Machine Learning** and making other various projects.
+- 👩‍💻 I'm currently working at SuperGaming on Indus Battle Royale.
+- 🌱 In my free time nowadays I'm working on various projects in Unreal Engine.
 
 <h4>Game Development</h4>
 <p align="left">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" height="25"/>
 </p>
 
 <h4>Competitive Programming</h4>
@@ -31,6 +32,7 @@
 <h4>Editors and IDE</h4>
 <p align="left">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson" height="25"/>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" height="25"/>
 </p>
  
